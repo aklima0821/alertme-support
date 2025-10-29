@@ -1,38 +1,50 @@
-# Alert Me – Smart Stock Alert  
-Stay ahead of the market with smart notifications and real-time stock signals.
+# 📱 AlertMe App Support
+
+Welcome to the official support page for **AlertMe** — your smart market monitoring and alert app.  
+Here you can find help, FAQs, and ways to contact us if you need assistance.
 
 ---
 
-## 📱 About the App
-**Alert Me** helps traders and investors monitor stock movements, receive instant alerts, and stay informed 24/7 with background refresh and silent push notifications.
-
-Whether you're tracking one stock or an entire portfolio, Alert Me delivers fast, reliable, and smart alerts directly to your device.
+## 🚀 About AlertMe
+**AlertMe** helps you stay ahead of the market by sending real-time signals and insights directly to your device.  
+Track stocks, crypto, and key financial trends effortlessly — anytime, anywhere.
 
 ---
 
 ## 💡 Common Questions
 
-### Why am I not receiving alerts?
-- Ensure **Background App Refresh** and **Notifications** are enabled for Alert Me.  
-- Check your **internet connection** and reopen the app once after installing.  
+### 1. How do I start using AlertMe?
+- Download the app from the **App Store**.
+- Sign in or create your profile.
+- Choose your watchlist and enable real-time alerts.
 
-### How do I customize alerts?
-- Go to the app’s **Settings** page → **Alert Settings** → choose your alert types and thresholds.
+### 2. Why am I not receiving notifications?
+Make sure:
+- Notifications are enabled in your iPhone Settings → *Notifications → AlertMe → Allow Notifications*.
+- Background App Refresh is turned on.
 
-### Does Alert Me work in the background?
-Yes! Alert Me uses **silent push notifications** to keep your data updated even when the app is closed.
+### 3. How often are alerts updated?
+AlertMe monitors your selected markets **24/7** and delivers instant notifications when signals change.
+
+### 4. How do I report a bug or give feedback?
+You can send us feedback directly through the app or by emailing **hafiz@ayramadigital.com]**.
 
 ---
 
-## 🧰 Contact Support
-If you need help or have feedback, please reach out:  
-📧 **hafiz@ayramadigital.com**
+## 🧰 Troubleshooting
+If the app crashes or behaves unexpectedly:
+1. Make sure you are using the latest version from the App Store.
+2. Try restarting your device.
+3. If the issue continues, contact us via email with a brief description and screenshots (if possible).
 
 ---
 
-## 🔒 Privacy
-Alert Me respects your privacy.  
-No personal or financial data is collected or shared.  
+## 📬 Contact Us
+- **Email:** [hafiz@ayramadigital.com](mailto:hafiz@ayramadigital.com)  
+- **Website:** [https://aklima0821.github.io/alertme-support/](https://aklima0821.github.io/alertme-support/)
 
-For details, visit the **Privacy Policy**:  
-👉 [https://alertmeapp.github.io/privacy](https://alertmeapp.github.io/privacy)
+We usually respond within **24 hours** on weekdays.
+
+---
+
+© 2025 AlertMe. All rights reserved.
