@@ -15,7 +15,6 @@ Track stocks, crypto, and key financial trends effortlessly — anytime, anywher
 
 ### 1. How do I start using AlertMe?
 - Download the app from the **App Store**.
-- Sign in or create your profile.
 - Choose your watchlist and enable real-time alerts.
 
 ### 2. Why am I not receiving notifications?
