@@ -27,7 +27,7 @@ Make sure:
 AlertMe monitors your selected markets **24/7** and delivers instant notifications when signals change.
 
 ### 4. How do I report a bug or give feedback?
-You can send us feedback directly through the app or by emailing **hafiz@ayramadigital.com]**.
+You can send us feedback directly through the app or by emailing **hafiz@ayramadigital.com**.
 
 ---
 
